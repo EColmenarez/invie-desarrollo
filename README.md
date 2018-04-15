@@ -1,2 +1,6 @@
-# invie-desarrollo
-Versión HTML del sitio Invie para el curso de desarrollo web de Platzi
+# Invie
+## Tus guitarras invisibles
+Proyecto desarrollado para el curso de desarrollo web de Platzi
+
+##Sistemas y Plataforma
+Desarrollado en HTML5 y CSS
