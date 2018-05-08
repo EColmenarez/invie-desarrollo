@@ -54,7 +54,7 @@ body {
  display: inline-block;
 }
 
-.portada, .header, .guitarras {
+.contenedor {
  width: 800px;
  margin: auto;
 }
