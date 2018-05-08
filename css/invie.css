@@ -1,14 +1,18 @@
 
 body {
  font-family: 'Allerta', sans-serif;
+ margin: 0;
 }
 
 .titulo {
  font-size: 70px;
+ margin-bottom: 0;
+ margin-top: 70px;
 }
 
 .subtitulo-a {
  font-size: 24px;
+ margin-top: 0;
 }
 
 .guitarras {
@@ -21,15 +25,25 @@ body {
 
 .subtitulo-b {
  font-size: 50px;
+ margin-bottom: 20px;
 }
 
 .portada {
  background-image: url("../img/background.png");
  color: #ffffff;
+ padding: 20px;
+}
+
+.portada button {
+ margin-bottom: 70px;
 }
 
 .menu {
  font-size: 24px;
+}
+
+.menu li {
+ margin-left: 30px;
 }
 
 .titulo, .guitarras h2 {
@@ -38,4 +52,9 @@ body {
 
 .menu, .menu li, .logotipo {
  display: inline-block;
+}
+
+.portada, .header, .guitarras {
+ width: 800px;
+ margin: auto;
 }
